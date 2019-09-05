@@ -1,1 +1,2 @@
-Addison Hill loves Git so much he cant contain all of his excitment
+Addison Hill loves Git so much he cant contain all of his excitment.
+More information.
